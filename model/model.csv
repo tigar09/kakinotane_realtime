@@ -1,0 +1,5 @@
+model,pt.file,layers,parameters
+RT-DETR Large,rt-detr-l(epochs10batch8).pt,673,"32,810,186"
+YOLOv8n,YOLOv8n(epochs10batch8).pt,225,"3,011,238"
+YOLOv5s,yolov5s(epochs10batch8).pt,262,"9,122,966"
+YOLOv3-tiny,yolov3-tiny(epochs10batch8).pt,82,"12,133,156"
